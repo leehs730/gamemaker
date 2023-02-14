@@ -2,6 +2,9 @@
 이형석
 고준기
 
+# 게임 이미지
+<img src = 'https://user-images.githubusercontent.com/75819612/218740472-1e1b72e5-c7e2-46cc-9784-7c0cd2ea941c.png'><img src = 'https://user-images.githubusercontent.com/75819612/218740467-ead31c45-7f37-4d8d-b33f-4fa85222c921.png'>
+
 # 동영상 링크 
 https://www.youtube.com/watch?v=PGJiA-k8YxU&feature=youtu.be&ab_channel=HyeongSeokLee
 
