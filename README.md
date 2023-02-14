@@ -1,3 +1,7 @@
+# 🛠 Stack
+![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat=square&logo=python&logoColor=white)
+![Pygame Badge](https://img.shields.io/badge/-Pygame-darkblue?style=flat=square&logo=python&logoColor=white)
+
 # gamemaker_member
 이형석
 고준기
